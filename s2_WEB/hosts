@@ -1,0 +1,7 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.10.10   main.linux123.com    main
+192.168.10.20   server1.linux123.com server1
+192.168.10.30   server2.linux123.com server2
+192.168.10.40   server3.linux123.com server3
