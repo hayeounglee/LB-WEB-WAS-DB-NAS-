@@ -322,15 +322,20 @@ mysql -u webuser -pcentos testdb -e "SELECT * FROM test;"
 
 **✅ DB 기록 테이블에 양쪽 서버 기록이 쌓이는지 확인**
 
-!image.png
+<img width="957" height="794" alt="image" src="https://github.com/user-attachments/assets/3958d44f-9897-4212-aa73-c75c11472315" />
 
-!image.png
 
-!image.png
+<img width="866" height="787" alt="image" src="https://github.com/user-attachments/assets/e3234b6e-4026-4a93-98d5-93a00962886e" />
 
-!image.png
 
-!image.png
+<img width="1005" height="782" alt="image" src="https://github.com/user-attachments/assets/fbd8485a-ed59-4960-899b-d0f0875b3154" />
+
+
+<img width="1200" height="825" alt="image" src="https://github.com/user-attachments/assets/e8f891e0-3f6e-4165-b29c-74a81e849f5d" />
+
+
+<img width="748" height="268" alt="image" src="https://github.com/user-attachments/assets/8e79b44f-d194-4b90-83a8-b4c64c5f3879" />
+
 
 ### **2) 장애 복구 확인 (server1 다운)**
 
@@ -340,10 +345,13 @@ mysql -u webuser -pcentos testdb -e "SELECT * FROM test;"
 
 **✅ DB 및 NFS 연결이 유지되는지 확인**
 
-!image.png
+<img width="1059" height="793" alt="image" src="https://github.com/user-attachments/assets/355f738d-b3fb-4d2a-8d38-44dd12045a92" />
 
-!image.png
 
-!image.png
+<img width="928" height="787" alt="image" src="https://github.com/user-attachments/assets/183d92f5-1a0a-4560-9172-b486947f8935" />
 
-!image.png
+
+<img width="1094" height="821" alt="image" src="https://github.com/user-attachments/assets/5226d985-f707-47b0-ace0-cab417fcde02" />
+
+<img width="673" height="338" alt="image" src="https://github.com/user-attachments/assets/c61ea185-094a-4f17-bead-0cf8d21e0644" />
+
