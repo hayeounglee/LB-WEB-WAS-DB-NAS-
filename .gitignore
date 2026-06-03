@@ -1,0 +1,5 @@
+.env
+*.vmdk
+*.log
+*.tmp
+.DS_Store
