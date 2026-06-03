@@ -1,0 +1,14 @@
+$TTL 1D
+@   IN  SOA  linux123.com.  root.linux123.com. (
+                2024010101
+                1D
+                1H
+                1W
+                3H )
+@       IN  NS   linux123.com.
+@       IN  A    192.168.10.10
+www     IN  A    192.168.10.10
+main    IN  A    192.168.10.10
+server1 IN  A    192.168.10.20
+server2 IN  A    192.168.10.30
+server3 IN  A    192.168.10.40
